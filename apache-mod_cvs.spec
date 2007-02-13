@@ -1,7 +1,7 @@
 %define		mod_name	cvs
 %define 	apxs		/usr/sbin/apxs
 Summary:	Apache module: Automatically updates files in a CVS-based webtree
-Summary(pl.UTF-8):   Moduł do apache: Automatyczne uaktualnianie plików z drzewa CVS
+Summary(pl.UTF-8):	Moduł do apache: Automatyczne uaktualnianie plików z drzewa CVS
 Name:		apache-mod_%{mod_name}
 Version:	0.5.91
 Release:	2
