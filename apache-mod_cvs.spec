@@ -10,7 +10,7 @@ Group:		Networking/Daemons
 Source0:	http://resare.com/noa/mod_cvs/dist/mod_%{mod_name}-%{version}.tar.gz
 # Source0-md5:	ef100c30ff734464c6194a2e707136b5
 URL:		http://www.resare.com/noa/mod_cvs/
-BuildRequires:	%{apxs}
+BuildRequires:	apache-apxs >= 2.0
 BuildRequires:	apache-devel
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	zlib-devel
