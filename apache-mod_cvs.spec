@@ -6,7 +6,7 @@ Name:		apache-mod_%{mod_name}
 Version:	0.5.91
 Release:	2
 License:	GPL
-Group:		Networking/Daemons
+Group:		Networking/Daemons/HTTP
 Source0:	http://resare.com/noa/mod_cvs/dist/mod_%{mod_name}-%{version}.tar.gz
 # Source0-md5:	ef100c30ff734464c6194a2e707136b5
 URL:		http://www.resare.com/noa/mod_cvs/
